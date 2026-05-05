@@ -1,0 +1,100 @@
+Which of the following is considered a "major repair" under EPA regulations?
+For a medium-pressure appliance containing more than 200 lbs of R-22, the required vacuum level is:
+When should a technician check for leaks in a high-pressure system?
+Comfort cooling systems with 50 or more lbs of charge must be repaired when the annual leak rate exceeds:
+Which oil is typically used with HFC refrigerants?
+When recovering liquid from a system, where do you connect the recovery unit?
+A system with 50+ lbs of charge is considered to be used for "industrial process refrigeration" if:
+Which refrigerant has a GWP of over 2000?
+What is the most effective way to detect a small leak in a high-pressure system?
+When using a large vacuum pump, the vacuum lines should be:
+Oil foaming usually occurs in the compressor when:
+A moisture-indicating sight glass that changes color indicates:
+In a high-pressure system, the component that changes high-pressure vapor to high-pressure liquid is:
+A crankcase heater is used to:
+The best method for charging a system that has a fixed orifice metering device is:
+To change the oil on a system, the technician should ideally:
+When a system contains 50 lbs or more of refrigerant, the technician must provide the owner with:
+If a high-pressure system has a leak that exceeds the threshold, the owner has how many days to repair it?
+A commercial refrigeration system with 400 lbs of R-404A has a leak rate threshold of:
+Liquid charging of a R-410A system should be done:
+The use of a large vacuum pump can sometimes cause WHAT to happen to moisture in the system?
+Where should you attach the gauges to check the high-side pressure on a system?
+If a technician suspects the refrigerant in a recovery cylinder is contaminated, they should:
+What is the most effective way to help speed up the recovery of refrigerant from a Type II system?
+A system that is used for both comfort cooling and industrial process refrigeration is categorised as "industrial process" if:
+Before using a recovery unit, you should check for WHAT to prevent contamination?
+When recovering from a system with a large charge, it is faster to recover:
+Which component is the "metering device" in a typical high-pressure system?
+For a high-pressure appliance containing more than 200 lbs of R-410A, the required vacuum level is:
+If a "major repair" is performed on a high-pressure system, the mandatory leak rate threshold is triggered:
+When using a large-bore vacuum hose (e.g. 1/2"), what happens to the evacuation time?
+A comfort cooling system with 60 lbs of R-22 is leaking. At what annual rate MUST it be repaired?
+When charging a split-system air conditioner, the technician should ideally first:
+What kind of oil is used with the HFC-134a?
+A technician finds a leak in a process refrigeration system with 100 lbs of charge. The leak rate is 40%. The repair must be made within:
+To minimize refrigerant loss when disconnecting hoses, you should use:
+A high-pressure system with a "parallel compressor rack" is common in:
+Where is the "Liquid Receiver" typically located?
+When checking for leaks with an electronic detector, the probe should be moved at a rate of about:
+A refrigerant "glide" occurs because:
+When should a system-dependent recovery NOT be used on a Type II system?
+A follow-up verification test for a leak repair on a system with 50+ lbs of charge must be performed within:
+If a high-pressure system is empty of refrigerant, what should be done first?
+Which part of a high-pressure system is most likely to leak if the shaft seal is worn?
+When recovering refrigerant from a system with 300 lbs of charge, the required evacuation level is:
+A "filter-drier" should be replaced whenever:
+What is the purpose of the "Subcooling" measurement?
+A system that uses a TXV (Thermostatic Expansion Valve) is typically charged to a specific:
+A high-pressure system with more than 50 lbs of charge MUST have its leak rate calculated:
+What component is intended to handle "Non-condensables" in a large high-pressure system?
+If a "low-side" leak is suspected in an operating high-pressure system, what might you see?
+A "Supermarket Rack" system with 1000 lbs of R-404A has a leak threshold of 20%. If it leaks 250 lbs in a year, what is the leak rate?
+Where should you connect the recovery unit when recovering from a system with a receiver?
+A high-pressure system with a 60 lb charge requires WHAT vacuum level before opening for a major repair?
+What is the purpose of "Vapor Recovery" after liquid recovery is complete?
+When using a large vacuum pump, you should use WHAT to ensure you are not measuring the pump suction?
+What is the role of an "Accumulator"?
+If a High-Pressure Cut-out switch on a recovery unit trips, what is the first thing to check?
+A high-pressure system with 250 lbs of charge must be evacuated to WHAT level for a major repair?
+If a Follow-up leak verification test fails, what is the next step?
+Where is the refrigerant in its vapor state at high pressure?
+A system-dependent (passive) recovery is NOT allowed for Type II systems because:
+How can you identify the type of refrigerant in a system without a label?
+The "Low-side" of a high-pressure system includes the:
+A technician should use WHAT to remove moisture from a large system that has been open?
+What is the characteristic of "R-407C" that technicians must be aware of?
+When moving a recovery cylinder that is "Full", you should:
+If a large high-pressure system has a leak in the condenser coil, where is the refrigerant leaking from?
+A "Major Repair" according to the EPA includes the replacement of which component?
+What is the required vacuum level for a high-pressure system with less than 200 lbs of charge (using modern recovery equipment)?
+When using a large high-pressure system, what is the best way to determine the correct charge?
+Which type of refrigerant is "R-404A"?
+Where should you connect the manifold gauges to check the suction pressure?
+What kind of oil is used with R-410A?
+What indicates air in a high-pressure system?
+A commercial refrigeration system with 500 lbs of charge has a leak rate of 25%. Repair is:
+A "Crankcase Heater" should ideally be turned on HOW LONG before starting a large compressor?
+When charging liquid into a system, why do you use a "Throttling Valve"?
+If the evacuation of a system takes a very long time, it might be because:
+A "Liquid Line" should be WHAT temperature relative to the condenser?
+What happens to the pressure of a R-22 cylinder at 0 degrees F?
+If a "High-pressure" system contains a flammable refrigerant, you must:
+Where should the "External" oil level be checked on a recovery machine?
+A comfort cooling system with over 50 lbs of charge has a leak rate threshold of:
+A "Triple Evacuation" method is typically used when:
+Which valve position allows for the connection of a gauge manifold set while the system is running?
+According to ASHRAE 15, which of the following is required in a mechanical room with a high-charge system?
+When a system is front-seated, the service valve is:
+A moisture-indicating sight glass that stays yellow after several hours of operation means:
+A "High-Pressure" system typically uses WHAT to protect against over-pressurization during a fire?
+Pressure relief valves should never be installed in:
+When recharging a system with a large charge, the most important precaution is to avoid:
+What is the "Saturation Temperature" of R-410A at 340 psig?
+Where should a "Filter-Drier" be installed for maximum protection?
+When opening a high-pressure system for a minor repair, you must reach:
+What is the purpose of "Subcooling" in a refrigeration cycle?
+When charging a large high-pressure system, it is best to charge with liquid through the:
+The sensor of a thermostatic expansion valve (TXV) should be located at the:
+If a system is opened for a major repair, the EPA requires that it be evacuated to:
+A very large high-pressure system could use WHAT to protect the system from over-pressurization?
